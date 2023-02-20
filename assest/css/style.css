@@ -97,6 +97,12 @@ h4{
     letter-spacing: 0.1em;
     justify-content: space-around;
 }
+.header_nav ul{
+    margin-left: 55px;
+}
+.header_nav ul li{
+    font-size: 15px;
+}
 
 
 /*==== Banner Part ====*/
